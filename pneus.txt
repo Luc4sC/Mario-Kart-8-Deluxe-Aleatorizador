@@ -1,0 +1,21 @@
+Normal
+Grande
+Pequeno
+Estreito
+Liso
+Metálico
+Botão
+Todo-o-Terreno
+Esponja
+Madeira
+Almofadado
+Normal Azul
+Grande Laranja
+Pequeno ciano
+Estreito Carmim
+Liso Roxo
+TT Retro
+Pneus GLA
+Pneus Triforce
+Pneus ancestrais
+Pneus Crossing
