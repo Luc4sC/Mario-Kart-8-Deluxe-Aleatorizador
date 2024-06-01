@@ -1,4 +1,7 @@
-package Mario_Kart;
+package Ferramentas;
+
+import Mario_Kart.Jogador;
+import Mario_Kart.MKComponentes;
 
 import java.io.IOException;
 import java.util.ArrayList;

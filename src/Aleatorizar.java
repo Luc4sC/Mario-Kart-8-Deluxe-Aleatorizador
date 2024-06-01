@@ -1,4 +1,4 @@
-import Mario_Kart.Partida;
+import Ferramentas.Partida;
 
 import java.io.*;
 import java.util.ArrayList;
